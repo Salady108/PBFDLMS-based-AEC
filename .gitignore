@@ -1,0 +1,31 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Generated outputs from demos
+*.wav
+*.png
+
+# Keep report PDFs if desired; uncomment next line to ignore all PDFs
+# *.pdf
