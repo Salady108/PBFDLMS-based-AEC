@@ -257,5 +257,5 @@ Contributions are welcome! Please:
 
 ## Authors
 
-- Sri Prahlad Mukunthan
-- Vamshikrishna V Bidari
+- [Sri Prahlad Mukunthan](https://github.com/Salady108)
+- [Vamshikrishna V Bidari](https://github.com/VamshikrishnaBidari)
