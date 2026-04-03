@@ -231,10 +231,11 @@ The system generates:
 
 ## 📚 References
 
-This implementation is based on:
-- **GCC-PHAT**: Knapp & Carter (1976) - "The generalized correlation method for estimation of time delay"
-- **PBFDLMS**: Multidelay Block Frequency-Domain Adaptive Filtering (MDF/PBFDAF literature)
-- **Adaptive Signal Processing**: Haykin (2002) - "Adaptive Filter Theory"
+- [1] Peng et al., **ICASSP 2021 AEC Challenge**, Proc. ICASSP, pp. 146-150, 2021.
+- [2] Eneman and Moonen, **Iterated partitioned block frequency-domain AEC**, IEEE Trans. Speech Audio Process., 11(2):143-158, 2003, doi:10.1109/TSA.2003.809194.
+- [3] Knapp and Carter, **Generalized correlation for time-delay estimation**, IEEE Trans. Acoust., Speech, Signal Process., 24(4):320-327, 1976, doi:10.1109/TASSP.1976.1162830.
+- [4] Enzner and Vary, **Frequency-domain adaptive Kalman filter for AEC**, Signal Processing, 86(6):1140-1156, 2006.
+- [5] Farhang-Boroujeny, **Adaptive Filters: Theory and Applications**, Wiley, 2013.
 
 ## 🤝 Contributing
 
